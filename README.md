@@ -31,6 +31,8 @@
 - [Automação de Pentest com ChatGPT](link-projeto)
 - [Análise de Malware com Python](link-projeto)
 
-![santiagop01 GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagop01nuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 💬 **Aberto para colaborações em IA, Cybersecurity e Open Source!**
+
