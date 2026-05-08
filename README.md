@@ -4,7 +4,7 @@
 
 ![Gif matrix](https://media.tenor.com/cOxR1hF63Y0AAAAM/matrix-film.gif)
 
-😎 **Ola, Eu me chamo Santiago Morais!**
+
 # Santiago Peixoto 👨‍💻
 **Estudante de Inteligência Artificial | Cybersecurity Specialist | Python Developer**
 
