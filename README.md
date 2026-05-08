@@ -14,7 +14,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-
 ## 🎓 Formação
 - **Faculdade de Inteligência Artificial** (em andamento)
 - Certificado **ChatGPT como Copiloto de Programação** - DIO.me
