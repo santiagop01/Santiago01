@@ -12,7 +12,20 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white) 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
+<!-- Stats com tema escuro (perfeito para cyber) -->
+![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagopeixoto&show_icons=true&theme=dark)
+
+<!-- Stats com tema tech/IA -->
+![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagopeixoto&show_icons=true&theme=dracula)
+
+<!-- Top Languages (essencial para DIO) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopeixoto&layout=compact&theme=radical)
+
+<!-- Stats + Languages lado a lado -->
+<div align="center">
 ![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagopeixoto&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopeixoto&layout=compact)
+</div>
 
 ## 🎓 Formação
 - **Faculdade de Inteligência Artificial** (em andamento)
