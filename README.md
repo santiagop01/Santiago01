@@ -17,3 +17,18 @@
 - Certificado **ChatGPT como Copiloto de Programação** - DIO.me
 
 ## 🚀 Skills de IA/ML
+
+## 🔐 Cybersecurity
+
+## 💻 Tech Stack
+| Backend | Cloud | Ferramentas | DevOps |
+|---------|-------|-------------|--------|
+| Python | Azure | VS Code | Git/GitHub |
+| FastAPI | OpenAI | Jupyter | Docker |
+
+## 📈 Projetos em Destaque
+- [IA para Detecção de Ameaças](link-projeto) - Azure + ML
+- [Automação de Pentest com ChatGPT](link-projeto)
+- [Análise de Malware com Python](link-projeto)
+
+💬 **Aberto para colaborações em IA, Cybersecurity e Open Source!**
